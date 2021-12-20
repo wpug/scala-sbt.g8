@@ -1,9 +1,9 @@
-scalaVersion := "2.13.6"
+scalaVersion := "2.13.7"
 scalacOptions := Seq(
   "-unchecked",
   "-deprecation", 
   "-explaintypes",
   "-encoding", "utf8"
 )
-name := "hello-scala2"
+name := "$name$"
 version := "0.0.1"

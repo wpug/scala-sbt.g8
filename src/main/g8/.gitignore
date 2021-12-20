@@ -28,4 +28,7 @@ project/boot/
 /src/main/g8/project/target/
 
 .bsp
+.metals
+.vscode
+
 
